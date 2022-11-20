@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+body{
+    margin: 20px;
+    background-color: lightgray;
+}
+.contenidoTareas{
+   
+   display: flex;
+   justify-content: flex-start;
+   margin-top: 20px;
+  
+}
+
+.inputTareas{
+
+    width: 40%;
+}
+
+.tituloId{
+
+    width: 20px;
+}
+
+.campoBoton{
+    width: 80px;
+}
+
+.tituloTarea{
+
+    width: 150px;
+    text-align: center;
+
+}
+.tabla{ 
+    margin-left: 20%;
+}
+
+h3{
+    margin-top: 20px;
+}
+
+.botonAgregar{
+background-color: green;
+color: white;
+font-size: 15px;
+border-radius: 10px;
+}
+
+.botonEliminar{
+ background-color: red;
+ color: white;
+ font-size: 10px;
+ border-radius: 5px;
+}
+
+table{
+    text-align: center;
+}
+
+
+
